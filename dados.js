@@ -58,7 +58,9 @@ const medicamentos = [
     { nome: "Fexofenadina", posologia: "1 comprimido ao dia" },
     { nome: "Tamsulosina", posologia: "1 cápsula ao dia" },
     { nome: "Propranolol", posologia: "1 comprimido ao dia" },
-    { nome: "Ciclosporina", posologia: "Administrar conforme prescrição médica" }
+    { nome: "Ciclosporina", posologia: "Administrar conforme prescrição médica" },
+    { nome: "Sildenafila", posologia: "1 comprimido 30 minutos antes da relação sexual" },
+    { nome: "Tadalafila", posologia: "1 comprimido ao dia ou 30 minutos antes da relação sexual" },
     // Adicione mais medicamentos conforme necessário
 ];
 
